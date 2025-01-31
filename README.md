@@ -9,14 +9,6 @@ This repository contains a Python implementation of the Avellaneda-Stoikov model
 - **Inventory Management:** Manage inventory levels to minimize risk and maximize profit.
 - **Performance Metrics:** Calculate key performance metrics such as profit, inventory turnover, and Sharpe ratio.
 
-## Requirements
-
-- **Python 3.8+**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-
-
 ## Usage
 
 1. Clone the repository:
@@ -35,11 +27,3 @@ This repository contains a Python implementation of the Avellaneda-Stoikov model
    ```
 
 4. Customize parameters and scenarios as needed in the `simulation.py` file.
-
-## Contributing
-
-Contributions are welcome To contribute, please:
-
-1. Fork the repository.
-2. Make changes and commit them with meaningful commit messages.
-3. Open a pull request against the main branch.
